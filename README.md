@@ -11,3 +11,7 @@ The corpus is composed of the union of three data sources:
 - 1,771: parallel sentences are the result of the translation from English to Italian of the training and development set of the *Human Simplification with Sentence Fusion Data Set* and few sentences translated by the first version of the *Wikipedia Dataset*. The API of DeepL was used for the translation.
 
 So the dataset consists of **35,662 c-s pairs**.
+
+## License
+
+Distributed under the terms of the Apache License 2.0.
